@@ -18,7 +18,8 @@ brief explanation
 
 
 ## Errors
-[solution]()
+
+[solution](solution.link.here)
 
 ## Contribute
 
@@ -28,7 +29,7 @@ brief explanation
 
 ## Developers
 
-name (module) [contact]()
+name (module) [contact](your.github.address.here)
 
 ## License
 ``` licenses```
