@@ -46,8 +46,8 @@ For a more intimate guide, please check out our  _[Introduction to Pinpoint](htt
     
 -   **CallStack**  - Gain code-level visibility to every transaction in a distributed environment, identifying bottlenecks and points of failure in a single view.
     
-    [![Call Stack](![20200911193717_3b0e98be46d692da7aab09c1bb0834c0_jv1c](https://user-images.githubusercontent.com/53688895/93166890-601f4200-f75a-11ea-82f1-6231c0bcbd98.jpeg)
-)](https://user-images.githubusercontent.com/53688895/93166890-601f4200-f75a-11ea-82f1-6231c0bcbd98.jpeg)
+![20200911193717_3b0e98be46d692da7aab09c1bb0834c0_jv1c](https://user-images.githubusercontent.com/53688895/93167823-6ca49a00-f75c-11ea-91fa-67c84cb45576.jpeg)
+
     
 -   **Inspector**  - View additional details on the application such as CPU usage, Memory/Garbage Collection, TPS, and JVM arguments.
 
